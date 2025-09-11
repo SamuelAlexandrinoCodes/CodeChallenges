@@ -1,0 +1,15 @@
+# Arquivos de compilação do Java
+.class
+
+# Pastas de build
+bin
+target
+
+# Arquivos de configuração da IDE Eclipse
+.classpath
+.project
+.settings
+
+# Arquivos de log e temporários
+.log
+.tmp
