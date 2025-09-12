@@ -9,6 +9,7 @@ This repository serves as a central hub for various coding and logic challenges 
 
 | Challenge | Language | Brief Description |
 | :--- | :--- | :--- |
+| **Binary Transformer** | Java | A function that analyzes an integer, finds its binary representation, and returns both the total count of '1' bits and their 1-based positions. |
 | **Romanizer** | Java | A console application that converts integers to Roman numerals, following the standard formation rules. |
 | *(Next challenge coming soon)* | ... | ... |
 
@@ -30,6 +31,7 @@ Este repositório serve como uma coleção central para os desafios de programa�
 
 | Desafio | Linguagem | Breve Descrição |
 | :--- | :--- | :--- |
+| **Binary Transformer** | Java | Uma função que analisa um número inteiro, encontra a sua representação binária e retorna tanto a contagem total de bits '1' quanto as suas posições (base 1). |
 | **Romanizer** | Java | Uma aplicação de console que converte números inteiros para algarismos romanos, seguindo as regras de formação padrão. |
 
 ### Como Executar os Projetos Java
