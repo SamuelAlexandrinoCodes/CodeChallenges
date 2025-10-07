@@ -1,15 +1,25 @@
-# Arquivos de compilação do Java
-.class
+# Arquivos de log e temporários gerais
+*.log
+*.tmp
 
-# Pastas de build
-bin
-target
+### JAVA / ECLIPSE ###
+# Arquivos de compilação do Java
+*.class
+
+# Pastas de build do Java
+target/
 
 # Arquivos de configuração da IDE Eclipse
 .classpath
 .project
-.settings
+.settings/
 
-# Arquivos de log e temporários
-.log
-.tmp
+### C# / .NET / VISUAL STUDIO ###
+# Pastas de build e cache do .NET
+[Bb]in/
+[Oo]bj/
+.vs/
+
+# Arquivos de configuração de usuário
+*.user
+*.suo
