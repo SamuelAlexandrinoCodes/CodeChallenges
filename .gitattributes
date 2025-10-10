@@ -1,0 +1,3 @@
+# Força todos os arquivos de texto a usarem a terminação de linha LF (Unix)
+# para garantir consistência entre diferentes sistemas operacionais.
+* text=auto eol=lf

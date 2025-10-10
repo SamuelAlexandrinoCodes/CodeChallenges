@@ -1,6 +1,25 @@
 # Arquivos de log e temporários gerais
 *.log
 *.tmp
+npm-debug.log*
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+### JAVASCRIPT / NODE.JS ###
+# Pasta de dependências
+node_modules/
+
+# Arquivos de ambiente com segredos
+.env
+.env.*
+!.env.example
+
+# Saídas de build
+dist/
+build/
+
 
 ### JAVA / ECLIPSE ###
 # Arquivos de compilação do Java
@@ -13,6 +32,7 @@ target/
 .classpath
 .project
 .settings/
+
 
 ### C# / .NET / VISUAL STUDIO ###
 # Pastas de build e cache do .NET
